@@ -1,0 +1,3 @@
+lecture slides
+beta distribution https://numpy.org/doc/1.21/reference/random/generated/numpy.random.Generator.beta.html#numpy.random.Generator.beta
+np.unique https://numpy.org/doc/stable/reference/generated/numpy.unique.html
